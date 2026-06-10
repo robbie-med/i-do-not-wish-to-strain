@@ -1,0 +1,6 @@
+{
+  "name": "APFT Bulking Coach",
+  "description": "An interactive tactical fitness guide, scoring calculator, and AI workout generator designed to help a 31M build size and ace the US Army Physical Fitness Test using dumbbells, a weighted vest, and a pull-up bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
